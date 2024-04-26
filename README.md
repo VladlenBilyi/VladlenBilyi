@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladlen Bilyi</h1>
 <h3 align="center">A passionate full-stack engineer</h3>
-<img src="./profile/profile-season-animate.svg"/>
+<img src="./profile-season-animate.svg"/>
 
 <p align="left">
 </p>
